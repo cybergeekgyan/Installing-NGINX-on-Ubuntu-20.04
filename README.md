@@ -91,3 +91,4 @@ For example, using the sudo ufw allow 'OpenSSH' the command will enable secure, 
 For Verify it installed correctly Nginx, open a web browser and type in the address bar http://server_ip_address
 
 After opening this URL, you can see the Nginx default page as in the image below:
+![alt text](https://github.com/gyanprakash0221/Installing-NGINX-on-Ubuntu-20.04/blob/main/images/nginx.png)
